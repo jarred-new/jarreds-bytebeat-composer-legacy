@@ -1,3 +1,6 @@
+# ⚠️ THIS PROJECT WILL BE ARCHIVED ⚠️
+I have made a plan to archive publicly both platforms because I will make a new one that uses the modern libraries of both Android and Windows. And soon, I will develop the web version, so that you can visit my program at my Github Pages version.
+
 # jarreds-bytebeat-composer
 (a,k.a JarredsBeatComposer) compose your C-Compatible bytebeat formulas for both Windows and Android
 <img width="1080" height="651" alt="JarredsBeatComposerSplash" src="https://github.com/user-attachments/assets/a0e5739e-c8ef-4455-9d9f-d67532ae3fe1" />
