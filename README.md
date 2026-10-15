@@ -1,4 +1,4 @@
-# ⚠️ THIS PROJECT IS BE ARCHIVED ⚠️
+# ⚠️ THIS PROJECT HAS NOW BEEN ARCHIVED! WE'RE MOVING AND CHANGING ⚠️
 I have made a plan to archive publicly both platforms because I will make a new one that uses the modern libraries of both Android and Windows. And soon, I will develop the web version, so that you can visit my program at my Github Pages version.
 
 ### Why?
