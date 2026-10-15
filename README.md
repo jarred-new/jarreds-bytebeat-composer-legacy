@@ -1,7 +1,19 @@
-# ⚠️ THIS PROJECT WILL BE ARCHIVED ⚠️
+# ⚠️ THIS PROJECT IS BE ARCHIVED ⚠️
 I have made a plan to archive publicly both platforms because I will make a new one that uses the modern libraries of both Android and Windows. And soon, I will develop the web version, so that you can visit my program at my Github Pages version.
 
-# jarreds-bytebeat-composer
+### Why?
+* I did use obsolete APIs and SDKs
+* Hard to code with the Windows version (Uses MFC and some Win32 Api) (Too many efforts of variable conversions)
+* Some of my AI-Generated parsers needs to be replaced by ExprTk (For Windows) and exp4j or EvalEx (For Android)
+* Android Version uses an outdated design and UX/UI
+
+### The solution to be less effort and easy to update
+* Creating these from scratch both for Windows and Android. Even the wev version might as well.
+* Using Qt 6 for Windows
+* Using the modern Android Api with Jetpack Compose library (androidx)
+* Less use of AI-Generated codes and snippets.
+
+# jarreds-bytebeat-composer (legacy edition)
 (a,k.a JarredsBeatComposer) compose your C-Compatible bytebeat formulas for both Windows and Android
 <img width="1080" height="651" alt="JarredsBeatComposerSplash" src="https://github.com/user-attachments/assets/a0e5739e-c8ef-4455-9d9f-d67532ae3fe1" />
 
